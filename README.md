@@ -6,8 +6,8 @@ The code and exercvises completed for the preperation for the tensorflow certifi
 ## Books Reffered
 First to understand the fundamentals of the statistics
  - Introduction to Statistical Learning
-   - [ ] Introduction
-   - [ ] Statistical Learningg
+   - [x] Introduction
+   - [x] Statistical Learningg
    - [ ] Linear Regression
    - [ ] Classification
    - [ ] Resampling Methods
