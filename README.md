@@ -6,8 +6,8 @@ The code and exercvises completed for the preperation for the tensorflow certifi
 ## Books Reffered
 First to understand the fundamentals of the statistics
  - Introduction to Statistical Learning
-   - [ ] Introduction
-   - [ ] Statistical Learningg
+   - [x] Introduction
+   - [x] Statistical Learningg
    - [ ] Linear Regression
    - [ ] Classification
    - [ ] Resampling Methods
@@ -19,9 +19,9 @@ First to understand the fundamentals of the statistics
    
 Secod to understand the tensorflow library and its offerings
  - Hands on machine learning with scikit-Learn and Tensorflow
-   - [ ] Fundamentals of Machine Learning
-   - [ ] The Machine Learning Landscape
-   - [ ] End to End Machine Learning Landscape
+   Fundamentals of Machine Learning
+   - [x] The Machine Learning Landscape
+   - [x] End to End Machine Learning Landscape
    - [ ] Classification
    - [ ] Training Models
    - [ ] Support Vector Machines
