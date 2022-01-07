@@ -1,23 +1,23 @@
 # tensorflow_certification
-The code and exercvises completed for the preperation for the tensorflow certification.
+The code and exercises completed for the preparation for the tensorflow certification.
 
 
 
-## Books Reffered
+## Books Referred
 First to understand the fundamentals of the statistics
  - Introduction to Statistical Learning
    - [x] Introduction
-   - [x] Statistical Learningg
+   - [x] Statistical Learning
    - [ ] Linear Regression
    - [ ] Classification
    - [ ] Resampling Methods
-   - [ ] Linear Model Selection and Regularizaition
+   - [ ] Linear Model Selection and Regularization
    - [ ] Moving Beyond Linearity
    - [ ] Tree Based Methods
    - [ ] Support Vector Machines
    - [ ] Unsupervised Learning
    
-Secod to understand the tensorflow library and its offerings
+Second to understand the tensorflow library and its offerings
  - Hands on machine learning with scikit-Learn and Tensorflow
    Fundamentals of Machine Learning
    - [x] The Machine Learning Landscape
@@ -27,17 +27,17 @@ Secod to understand the tensorflow library and its offerings
    - [ ] Support Vector Machines
    - [ ] Decision Trees
    - [ ] Ensemble Learning and Random  Forests
-   - [ ] Dimentionality Reduction
+   - [ ] Dimensionality Reduction
    - [ ] Unsupervised Learning Techniques
    - [ ] Neural Networks and Deep Learning
-   - [ ] Introduction to artifical Neural Network with Keras
+   - [ ] Introduction to artificial Neural Network with Keras
    - [ ] Training Deep Neural Networks
    - [ ] Custom models and Training with Tensorflow
    - [ ] Loading and Preprocessing Data with Tensorflow
    - [ ] Deep computer vision using Convolutional Neural Networks
    - [ ] Processing Sequences using RNN's and CNN's
    - [ ] Natural Language Processing with RNN's and Attention
-   - [ ] Represnetation Learning and Generative Learning using Autoencoders and GANs
+   - [ ] Representation Learning and Generative Learning using Autoencoders and GANs
    - [ ] Reinforcement Learning 
    - [ ] Training and Deploying Tensorflow models in scale
    

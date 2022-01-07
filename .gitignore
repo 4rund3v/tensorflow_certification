@@ -1,6 +1,7 @@
 .idea/*
 *__pycache__/*
 *.pyc
-*.ipynb_checkpoints/*
+*/.ipynb_checkpoints/*
 venv/*
 *.py[cod]
+*.h5
