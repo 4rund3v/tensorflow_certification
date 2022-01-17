@@ -5,3 +5,7 @@ matplotlib
 seaborn
 jupyter
 pillow
+pydot
+graphviz
+tensorflow_probability
+sklearn
